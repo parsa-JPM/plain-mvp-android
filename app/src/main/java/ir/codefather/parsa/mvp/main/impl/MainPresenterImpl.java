@@ -1,9 +1,9 @@
-package ir.codefather.parsa.kochekhalvat.main.impl;
+package ir.codefather.parsa.mvp.main.impl;
 
-import ir.codefather.parsa.kochekhalvat.main.interfaces.MainModel;
-import ir.codefather.parsa.kochekhalvat.main.interfaces.MainPresenter;
-import ir.codefather.parsa.kochekhalvat.main.interfaces.MainView;
-import ir.codefather.parsa.kochekhalvat.mvp_core.Presenter;
+import ir.codefather.parsa.mvp.main.interfaces.MainModel;
+import ir.codefather.parsa.mvp.main.interfaces.MainPresenter;
+import ir.codefather.parsa.mvp.main.interfaces.MainView;
+import ir.codefather.parsa.mvp.mvp_core.Presenter;
 
 public class MainPresenterImpl extends Presenter<MainView, ModelImpl> implements MainPresenter,
         MainModel.OnFinish {

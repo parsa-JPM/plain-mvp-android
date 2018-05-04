@@ -1,4 +1,4 @@
-package ir.codefather.parsa.kochekhalvat;
+package ir.codefather.parsa.mvp;
 
 import org.junit.Test;
 
