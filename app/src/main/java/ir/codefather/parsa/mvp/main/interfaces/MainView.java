@@ -1,4 +1,4 @@
-package ir.codefather.parsa.kochekhalvat.main.interfaces;
+package ir.codefather.parsa.mvp.main.interfaces;
 
 public interface MainView {
     void showMessage(String str);

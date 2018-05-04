@@ -1,12 +1,12 @@
-package ir.codefather.parsa.kochekhalvat.main.impl;
+package ir.codefather.parsa.mvp.main.impl;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import ir.codefather.parsa.kochekhalvat.R;
-import ir.codefather.parsa.kochekhalvat.main.interfaces.MainPresenter;
-import ir.codefather.parsa.kochekhalvat.main.interfaces.MainView;
+import ir.codefather.parsa.mvp.R;
+import ir.codefather.parsa.mvp.main.interfaces.MainPresenter;
+import ir.codefather.parsa.mvp.main.interfaces.MainView;
 
 public class MainActivity extends AppCompatActivity implements MainView {
 

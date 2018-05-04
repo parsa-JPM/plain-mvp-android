@@ -1,4 +1,4 @@
-package ir.codefather.parsa.kochekhalvat;
+package ir.codefather.parsa.mvp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

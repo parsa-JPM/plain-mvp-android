@@ -1,4 +1,4 @@
-package ir.codefather.parsa.kochekhalvat.mvp_core;
+package ir.codefather.parsa.mvp.mvp_core;
 
 public abstract class Presenter<V, M> {
     protected V view;
